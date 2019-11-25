@@ -2,4 +2,4 @@
 
 This is the file to append. Add your name to this list:
 
-* Gerbrich
+- Gerbrich
