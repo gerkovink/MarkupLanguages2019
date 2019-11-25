@@ -4,3 +4,5 @@ This is the file to append. Add your name to this list:
 
 - gerko
 - Sanne
+- Hanne
+
